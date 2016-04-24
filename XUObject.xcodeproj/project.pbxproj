@@ -16,6 +16,7 @@
 		5672E8A81CCBA5860099FDFC /* NSString+Sha1.m in Sources */ = {isa = PBXBuildFile; fileRef = 5672E8A21CCBA5860099FDFC /* NSString+Sha1.m */; };
 		5672E8A91CCBA5860099FDFC /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 5672E8A41CCBA5860099FDFC /* Reachability.m */; };
 		5672E8AB1CCBA5860099FDFC /* RNCachingURLProtocol.m in Sources */ = {isa = PBXBuildFile; fileRef = 5672E8A71CCBA5860099FDFC /* RNCachingURLProtocol.m */; };
+		56B28D941CCD2F370022D1C1 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 56B28D931CCD2F370022D1C1 /* 2.jpg */; };
 		AE713EB21CC7607900E5A085 /* threeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AE713EB11CC7607900E5A085 /* threeViewController.m */; };
 		AE7C093D1CC484D200593E78 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AE7C093C1CC484D200593E78 /* main.m */; };
 		AE7C09401CC484D200593E78 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AE7C093F1CC484D200593E78 /* AppDelegate.m */; };
@@ -60,6 +61,7 @@
 		5672E8A41CCBA5860099FDFC /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
 		5672E8A61CCBA5860099FDFC /* RNCachingURLProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RNCachingURLProtocol.h; sourceTree = "<group>"; };
 		5672E8A71CCBA5860099FDFC /* RNCachingURLProtocol.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RNCachingURLProtocol.m; sourceTree = "<group>"; };
+		56B28D931CCD2F370022D1C1 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
 		AE713EB01CC7607900E5A085 /* threeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = threeViewController.h; sourceTree = "<group>"; };
 		AE713EB11CC7607900E5A085 /* threeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = threeViewController.m; sourceTree = "<group>"; };
 		AE7C09381CC484D200593E78 /* XUObject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XUObject.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -142,6 +144,7 @@
 				562907651CC51BD400209F52 /* papa.png */,
 				565D36CD1CC6950700879CAA /* blue.png */,
 				AE7C093E1CC484D200593E78 /* AppDelegate.h */,
+				56B28D931CCD2F370022D1C1 /* 2.jpg */,
 				AE7C093F1CC484D200593E78 /* AppDelegate.m */,
 				565D36CF1CC6965400879CAA /* head.jpg */,
 				AE7C09411CC484D200593E78 /* middleViewController.h */,
@@ -296,6 +299,7 @@
 				AE7C09481CC484D200593E78 /* Assets.xcassets in Resources */,
 				AE7C097C1CC4D26600593E78 /* Black_spot.png in Resources */,
 				565D36D01CC6965400879CAA /* head.jpg in Resources */,
+				56B28D941CCD2F370022D1C1 /* 2.jpg in Resources */,
 				562907661CC51BD400209F52 /* papa.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
