@@ -22,9 +22,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
     
-    self.title = @"one";
+    self.title = @"第一个页面>>>测试";
     
     self.view.backgroundColor = [UIColor lightGrayColor];
     
