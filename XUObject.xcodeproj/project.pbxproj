@@ -256,7 +256,7 @@
 				TargetAttributes = {
 					AE7C09371CC484D200593E78 = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = 6AN25XEPY9;
+						DevelopmentTeam = YU34U9SYND;
 					};
 					AE7C09501CC484D200593E78 = {
 						CreatedOnToolsVersion = 7.3;
@@ -273,6 +273,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -469,8 +470,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = YU34U9SYND;
 				INFOPLIST_FILE = XUObject/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.com.uvic.XUObject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -482,8 +484,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = YU34U9SYND;
 				INFOPLIST_FILE = XUObject/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.com.uvic.XUObject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
