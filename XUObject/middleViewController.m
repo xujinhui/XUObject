@@ -34,9 +34,9 @@
     self.navigationItem.rightBarButtonItem = [[UIBarButtonItem alloc] initWithTitle:@"next" style:UIBarButtonItemStylePlain target:self action:@selector(tap)];
     
     self.title = @"测试001";
-    self.title = @"测试002";
+    self.title = @"测试00A";
     self.title = @"测试003";
-    self.title = @"测试004";
+    self.title = @"测试00B";
     self.title = @"测试005";
     
 }
